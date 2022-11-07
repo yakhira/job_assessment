@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://httpstat.us/200"
+    },
+    {
+        "url": "https://httpstat.us/404",
+        "regex": "404.*"
+    },
+    {
+        "url": "https://tls-v1-2.badssl.com:1012/"
+    }
+]
